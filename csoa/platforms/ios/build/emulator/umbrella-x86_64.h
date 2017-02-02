@@ -597,7 +597,7 @@
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/libkern/OSTypes.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.h"
-#import "/Users/Tyler/Documents/github/csoaApp/csoa/platforms/ios/../../lib/iOS/TNSWidgets.framework/Headers/TNSWidgets.h"
+#import "/Users/Tyler/Documents/github/csoaApp/csoa/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/usr/include/simd/simd.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers/ExternalAccessory.h"
 #import "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAAnimation.h"
