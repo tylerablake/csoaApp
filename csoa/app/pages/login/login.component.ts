@@ -32,7 +32,7 @@ export class LoginComponent {
 login() {
   this.userService.login(this.user)
   .subscribe(
-    () => {this.router.navigate(["/list"])},
+    () => {this.router.navigate(["/home"])},
     (error) => { alert("Unfortunately we coud not find your account.");}
   );
 }
