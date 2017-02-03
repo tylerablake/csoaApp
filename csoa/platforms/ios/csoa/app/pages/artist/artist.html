@@ -1,0 +1,9 @@
+<StackLayout>
+    <Label text="Select an artist to view."></Label>
+    <ListPicker #picker class="p-15" 
+                [items]="artists" 
+                [selectedIndex]="selectedIndex > 0 ? selectedIndex : 0" 
+                (selectedIndexChange)="selectedIndexChanged(picker)">
+    </ListPicker>
+    <Button text="View Artist" class="submit-button" (tap)="goToArtistPage()"></Button>
+</StackLayout>

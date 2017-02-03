@@ -18,3 +18,7 @@ Button, TextField {
   color: white;
   margin-top: 20;
 }
+.skip-button {
+  margin-top: 30;
+  font-size: xx-small;
+}

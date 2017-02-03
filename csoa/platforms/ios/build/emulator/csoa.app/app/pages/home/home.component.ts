@@ -16,4 +16,8 @@ export class HomeComponent {
     goToListPage(){
         this.router.navigate(["/list"]);
     }
+
+    goToArtistPage(){
+        this.router.navigate(["/artist"]);
+    }
 }

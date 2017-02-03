@@ -52,4 +52,8 @@ signUp() {
   toggleDisplay() {
     this.isLoggingIn = !this.isLoggingIn;
   }
+
+  public goToHomePage(){
+      this.router.navigate(["/home"]);
+  }
 }
